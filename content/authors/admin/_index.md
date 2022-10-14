@@ -5,9 +5,7 @@ avatar_filename: avatar.jpg
 bio: My research interests include Image Processing and Computational Genomics.
 interests:
   - Image Processing
-  - Deep Learning
-  - Computer Vision
-  - Machine Learning
+  - Computational Genomics
 social:
   - icon: envelope
     icon_pack: fas
