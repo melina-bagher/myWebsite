@@ -6,6 +6,7 @@ bio: My research interests include Image Processing and Computational Genomics.
 interests:
   - Image Processing
   - Computational Genomics
+  - NGS data analysis
 social:
   - icon: envelope
     icon_pack: fas
