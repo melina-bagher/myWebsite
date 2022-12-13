@@ -15,8 +15,8 @@ author_notes:
     Tehran; Iran
   - Department of Electrical Engineering; Sharif University of Technology;
     Tehran; Iran
-  - Division of Nuclear Medicine and Molecular Imaging; Geneva University
-    Hospital; CH-1211 Geneva 4; Switzerland
+  - Department of Electrical Engineering; Sharif University of Technology;
+    Tehran; Iran
 publication: In *IEEE IRANIAN CONFERENCE ON BIOMEDICAL ENGINEERING 2022*
 publication_short: In *IEEE IRANIAN CONFERENCE ON BIOMEDICAL ENGINEERING 2022*
 draft: false
