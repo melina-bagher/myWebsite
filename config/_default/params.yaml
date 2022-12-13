@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: Rezakarimzadeh1996@gmail.com
-phone: +98 913 703 2066
+email: Melina2Bagher@gmail.com
+phone: +98 912 029 8521
 address:
   street: Sharif University, Azadi
   city: Tehran
@@ -33,11 +33,11 @@ contact_links:
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:rezakarimzadeh1996?call'
+    link: 'skype:melina.bagher?call'
   - icon: telegram
     icon_pack: fab
     name: Chat on Telegram
-    link: 'https://t.me/Reza_k_1996'
+    link: 'https://t.me/melina_bagher'
 
 # Site header
 
