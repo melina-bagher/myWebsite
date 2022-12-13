@@ -7,15 +7,12 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: Experience
+    url: '#experience'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Accomplishments
+    url: '#accomplishments'
     weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
   - name: Publications
     url: '#featured'
     weight: 50
@@ -23,5 +20,5 @@ main:
     url: '#contact'
     weight: 60
   - name: CV
-    url: 'uploads/RezaKarimzadehCV.pdf'
+    url: 'uploads/MelinaBagherCV.pdf'
     weight: 70
