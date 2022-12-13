@@ -1,5 +1,4 @@
 ---
-title: Melina Bagher
 role: "Graduated M.Sc. student in Biomedical Engineering "
 avatar_filename: avatar.jpg
 bio: My research interests include Image Processing and Computational Genomics.
@@ -36,12 +35,13 @@ education:
     - course: B.Sc. Biomedical Engineering
       institution: Science and Research Branch, Islamic Azad University
       year: 2019
-email: ""
 superuser: true
 highlight_name: true
+title: Melina Bagher
+email: ""
 ---
 H﻿i!! I'm Melina,
 
 A graduated M.Sc. student in Biomedical Engineering at Electrical Engineering department of Sharif University of Technology, Tehran, Iran. My research interests revolve around image processing and computational genomics. I received my B.Sc. degree in Biomedical Engineering, from Science and Research Branch, Islamic Azad University, Tehran, in 2018. You will find more about me in the link below.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref  "uploads/RezaKarimzadehCV.pdf" "newtab" >}}Curriculum Vitae (CV){{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref  "uploads/MelinaBagherCV.pdf" "newtab" >}}Curriculum Vitae (CV){{< /staticref >}}.
