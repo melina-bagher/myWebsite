@@ -22,6 +22,8 @@ author_notes:
     Tehran; Iran
   - Division of Nuclear Medicine and Molecular Imaging; Geneva University
     Hospital; CH-1211 Geneva 4; Switzerland
+  - Division of Nuclear Medicine and Molecular Imaging; Geneva University
+    Hospital; CH-1211 Geneva 4; Switzerland
 publication_short: In *IEEE NUCLEAR SCIENCE SYMPOSIUM AND MEDICAL IMAGING CONFERENCE 2022*
 url_source: ""
 url_video: ""
