@@ -25,11 +25,11 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2020-01-25"
+  date_start: "2022-11-01"
   description: |2-
       Passing the courses:
       * Machine Learning (Andrew Ng)
-      * Deep Neural Networks with PyTorch (IBM)
+      * Deep Learning (Andrew Ng)
       * Python coding
   organization: Coursera
   organization_url: https://www.coursera.org
