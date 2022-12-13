@@ -38,7 +38,7 @@ url_source: ""
 url_video: ""
 publication: In *IEEE NUCLEAR SCIENCE SYMPOSIUM AND MEDICAL IMAGING CONFERENCE2022*
 featured: false
-date: 2022-12-13T18:15:45.766Z
+date: 2022-12-13T18:17:43.419Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
