@@ -36,9 +36,10 @@ title: "Generative Adversarial-based Framework for Classification using
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
+  filename: null
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
