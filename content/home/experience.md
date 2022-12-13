@@ -31,38 +31,21 @@ experience:
     date_end: ''
     description: |2-
         Teaching Assistant:       
-        * Deep Learning
-        * Medical Images Analysis and Processing
-        * Medical Imaging systems
+        * System Biology (Sharif University)
+        * Medical Images Analysis and Processing (Sharif University)
+        * Electronics 2 (Islamic Azad University)
 
 
-  - title: Computer and Electrical Freelancer
-    company: Freelance
-    company_url: ''
-    company_logo: org-gc
-    location: Tehran
-    date_start: '2018-01-01'
-    date_end: ''
-    description: |2-
-        Projects samples:       
-        * Tumor segmentation in pet images
-        * Medical images denoising using varoius methods such as total variation, non-local mean, diffusion, etc.
-        * Image stitching (Panorama)
-        * Stabilizing the Rotation Speed of DC Motor under Different Loads using digital controller
-        * Design and Implementation of room lighting control equipment with mobile for patients
         
   - title: Internship
-    company: Electro X-ray Company
+    company: Medical Equipments unit of Parsian Hospital
     company_url: ''
     company_logo: xray
     location: Tehran
-    date_start: '2017-06-01'
-    date_end: '2017-10-31'
+    date_start: '2018-06-01'
+    date_end: '2018-10-31'
     description: |2-
-        Becoming familiar with Repair and maintenance of imaging systems such as:
-        * MRI
-        * CT
-        * Portable Radiology devices
+        Becoming familiar with Repair and maintenance of health monitoring equipments
          
            
 
