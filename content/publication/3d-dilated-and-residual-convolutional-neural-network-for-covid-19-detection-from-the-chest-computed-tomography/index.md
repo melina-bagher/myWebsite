@@ -1,13 +1,13 @@
 ---
-title: 3D dilated and residual convolutional neural network for COVID-19
-  detection from the chest computed tomography
+title: "QuickHap: a Quick heuristic algorithm for the single individual
+  Haplotype reconstruction problem"
 publication_types:
   - "1"
 authors:
+  - Melina Bagher
   - Reza Karimzadeh
-  - Nona Rajabi
-  - Emad Fatemizadeh
-  - Hossein Arabi
+  - Babak Khalaj
+  - Mehran Jahed
 author_notes:
   - Department of Electrical Engineering; Sharif University of Technology;
     Tehran; Iran
@@ -17,8 +17,8 @@ author_notes:
     Tehran; Iran
   - Division of Nuclear Medicine and Molecular Imaging; Geneva University
     Hospital; CH-1211 Geneva 4; Switzerland
-publication: In *IEEE IRANIAN CONFERENCE ON BIOMEDICAL ENGINEERING 2021*
-publication_short: In *IEEE IRANIAN CONFERENCE ON BIOMEDICAL ENGINEERING 2021*
+publication: In *IEEE IRANIAN CONFERENCE ON BIOMEDICAL ENGINEERING 2022*
+publication_short: In *IEEE IRANIAN CONFERENCE ON BIOMEDICAL ENGINEERING 2022*
 draft: false
 featured: false
 image:
