@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
-  icon: tensorflow
+  icon: matlab
   icon_pack: "custom"
-  name: TensorFlow
+  name: Matlab
   
 - description:
   icon: python
@@ -27,9 +27,9 @@ feature:
   name: Python
   
 - description: 
-  icon: opencv
+  icon: r
   icon_pack: "custom"
-  name: OpenCV
+  name: R
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
