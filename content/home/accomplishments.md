@@ -37,11 +37,6 @@ item:
   url: ""
 
 
-design:
-  columns: '2' 
-
-
-  item:
 - certificate_url: 
   date_end: ""
   date_start: "2022-11-01"
