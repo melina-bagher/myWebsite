@@ -37,7 +37,7 @@ item:
   title: "Supervised Machine Learning: Regression and Classification"
   url: ""
 
-- certificate_url:https://coursera.org/share/99e21a7a24a0e777a999e015f5debf34 
+- certificate_url: https://coursera.org/share/99e21a7a24a0e777a999e015f5debf34 
   date_end: ""
   date_start: "2024-8-01"
   description: |2-
