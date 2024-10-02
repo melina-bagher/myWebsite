@@ -55,7 +55,7 @@ item:
   description: |2-
       Rayan.AI, Sharif University of Technology
       * Instructor: Mohammad Hossein Rohban, Rayan.AI Group
-  organization: Sharif University of Technology
+  organization: sharif
   organization_url: https://en.sharif.ir
   title:  "Introduction to Machine learning and Deep Learning"
   url: ""
