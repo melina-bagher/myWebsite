@@ -23,6 +23,25 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: https://coursera.org/share/a20e73d392c7377eabb7b721c8762300 
+  date_end: ""2024-01-14""
+  date_start: 
+  description: |2-
+      January 14, 2024
+      33 hours (approximately)
+      Grade Achieved: 100%
+      Instructor: ANdrew Ng
+  organization: DeepLearning.AI, Stanford University via Coursera
+  organization_url: https://www.coursera.org
+  title: "Supervised Machine Learning:\ Regression and Classification"
+  url: ""
+
+
+design:
+  columns: '2' 
+
+
+  item:
 - certificate_url: 
   date_end: ""
   date_start: "2022-11-01"
@@ -39,4 +58,5 @@ item:
 
 design:
   columns: '2' 
+---
 ---
