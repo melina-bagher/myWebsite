@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Honors and Awards
 subtitle:
 
 # Date format for experience
@@ -21,7 +21,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
- honor :
+experience:
   - title: Teaching experiences
     company: Sharif University of Technology
     company_url: ''
