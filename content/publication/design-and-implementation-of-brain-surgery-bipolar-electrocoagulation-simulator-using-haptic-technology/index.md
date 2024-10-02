@@ -1,6 +1,5 @@
 ---
-title: "QuickHap: a Quick heuristic algorithm for the single individual
-  Haplotype reconstruction problem"
+title: "A rapid heuristic algorithm to solve the single individual haplotype assembly problem"
 publication_types:
   - "1"
 authors:
@@ -17,13 +16,13 @@ author_notes:
     Tehran; Iran
   - Department of Electrical Engineering; Sharif University of Technology;
     Tehran; Iran
-publication: In *IEEE IRANIAN CONFERENCE ON BIOMEDICAL ENGINEERING 2022*
-publication_short: In *IEEE IRANIAN CONFERENCE ON BIOMEDICAL ENGINEERING 2022*
+publication: In *AUT Journal of Electrical Engineering 55 (2), 191-206, 2023*
+publication_short: AUT Journal of Electrical Engineering 55 (2), 191-206, 2023
 draft: false
 featured: false
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-12-13T18:18:57.886Z
+date: 2023-12-13T18:18:57.886Z
 ---
