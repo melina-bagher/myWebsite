@@ -22,12 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Teaching experiences
-    company: Sharif University of Technology
+  - title: Ranked 1st in the nationwide Ph.D. entrance exam for Biomedical
+Engineering (Bioelectric)
+    company: sanjesh
     company_url: ''
-    company_logo: sharif
+    company_logo: 
     location: Tehran
-    date_start: '2019-09-01'
+    date_start: '2023-09-01'
     date_end: ''
     description: |2-
         Teaching Assistant:       
