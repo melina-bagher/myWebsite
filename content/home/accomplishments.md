@@ -37,18 +37,6 @@ item:
   url: ""
 
 
-- certificate_url: 
-  date_end: ""
-  date_start: "2022-11-01"
-  description: |2-
-      Passing the courses:
-      * Machine Learning (Andrew Ng)
-      * Deep Learning (Andrew Ng)
-      * Python coding
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks, Machine Learning and Deep Learning
-  url: ""
 
 
 design:
