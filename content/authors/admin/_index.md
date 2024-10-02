@@ -1,11 +1,13 @@
 ---
 role: "Graduated M.Sc. student in Biomedical Engineering "
 avatar_filename: avatar.jpg
-bio: My research interests include Image Processing and Computational Genomics.
+bio: My research interests include Image Processing,Machine Learning, Deep Learning and Computational Genomics.
 interests:
-  - Image Processing
-  - Computational Genomics
-  - NGS data analysis
+  - Image Processing, Computer Vision
+  - Machine Learning, Deep Learning
+  - Computational Genomics, NGS data analysis
+  - Biomedical Signal/Image Processing
+
 social:
   - icon: envelope
     icon_pack: fas
