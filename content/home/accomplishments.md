@@ -61,6 +61,18 @@ item:
   url: ""
 
 
+- certificate_url: ""
+  date_start: "2024-07-01"
+  date_end: ""
+  description: |2-
+      Rayan.AI, Sharif University of Technology
+      * Instructor: Mohammad Hossein Rohban, Rayan.AI Group
+  organization: sharif
+  organization_url: https://en.sharif.ir
+  title:  "Trustworthiness in Deep Learning"
+  url: ""
+
+
 
 
 
