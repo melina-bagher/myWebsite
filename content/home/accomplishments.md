@@ -49,9 +49,9 @@ item:
   title:  "Advanced Learning Algorithms"
   url: ""
 
-  - certificate_url: 
+  - certificate_url: ""
   date_start: "2024-06-01"
-  date_end: 
+  date_end: ""
   description: |2-
       Rayan.AI, Sharif University of Technology
       * Instructor: Mohammad Hossein Rohban, Rayan.AI Group
