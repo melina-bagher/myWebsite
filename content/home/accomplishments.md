@@ -38,8 +38,8 @@ item:
   url: ""
 
 - certificate_url: https://coursera.org/share/99e21a7a24a0e777a999e015f5debf34 
-  date_end: ""
   date_start: "2024-8-01"
+  date_end: ""2024-9-01""
   description: |2-
       DeepLearning.AI, Stanford University via Coursera
       * 34 hours (approximately)
