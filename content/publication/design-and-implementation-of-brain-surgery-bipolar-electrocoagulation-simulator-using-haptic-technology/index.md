@@ -1,5 +1,5 @@
 ---
-title: "[A rapid heuristic algorithm to solve the single individual haplotype assembly problem](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SiVVUi0AAAAJ&citation_for_view=SiVVUi0AAAAJ:5nxA0vEk-isC)"
+title: "<a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SiVVUi0AAAAJ&citation_for_view=SiVVUi0AAAAJ:5nxA0vEk-isC'>A rapid heuristic algorithm to solve the single individual haplotype assembly problem</a>"
 publication_types:
   - "2"
 authors:
