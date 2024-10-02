@@ -36,10 +36,9 @@ item:
   organization_url: https://www.coursera.org
   title: "Supervised Machine Learning: Regression and Classification"
   url: ""
-
-- certificate_url: https://coursera.org/share/99e21a7a24a0e777a999e015f5debf34 
-  date_start: "2024-8-01"
-  date_end: ""2024-9-01""
+- certificate_url: https://coursera.org/share/99e21a7a24a0e777a999e015f5debf34
+  date_start: "2024-08-01"
+  date_end: "2024-09-01"
   description: |2-
       DeepLearning.AI, Stanford University via Coursera
       * 34 hours (approximately)
@@ -49,6 +48,7 @@ item:
   organization_url: https://www.coursera.org
   title:  "Advanced Learning Algorithms"
   url: ""
+
 
 design:
   columns: '2' 
