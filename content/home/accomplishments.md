@@ -27,17 +27,15 @@ item:
   date_start: "2023-11-01"
   date_end: "2024-01-14"
   description: |2-
-      33 hours (approximately)
-      Grade Achieved: 100%
-      Instructor: Andrew Ng
-      DeepLearning.AI, Stanford University via Coursera
+      *33 hours (approximately)
+      *Grade Achieved: 100%
+      *Instructor: Andrew Ng
+      *DeepLearning.AI, Stanford University via Coursera
   organization: Coursera
   organization_url: https://www.coursera.org
   title: "Supervised Machine Learning: Regression and Classification"
   url: ""
-design:
-  columns: '2' 
-  
+
 - certificate_url: 
   date_end: ""
   date_start: "2022-11-01"
