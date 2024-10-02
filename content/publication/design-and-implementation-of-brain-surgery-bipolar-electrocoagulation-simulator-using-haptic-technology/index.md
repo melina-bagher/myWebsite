@@ -1,5 +1,7 @@
 ---
-title: "<a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SiVVUi0AAAAJ&citation_for_view=SiVVUi0AAAAJ:5nxA0vEk-isC'>A rapid heuristic algorithm to solve the single individual haplotype assembly problem</a>"
+title: "[A rapid heuristic algorithm to solve the single individual haplotype assembly problem]"
+link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SiVVUi0AAAAJ&citation_for_view=SiVVUi0AAAAJ:5nxA0vEk-isC"
+
 publication_types:
   - "2"
 authors:
@@ -26,5 +28,6 @@ image:
   preview_only: false
 date: 2023-12-13T18:18:57.886Z
 google_scholar_link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SiVVUi0AAAAJ&citation_for_view=SiVVUi0AAAAJ:5nxA0vEk-isC"  # لینک به مقاله در گوگل اسکولار
+description: "For more details, click [here]({{ page.link }}) to access the publication."
 
 ---
