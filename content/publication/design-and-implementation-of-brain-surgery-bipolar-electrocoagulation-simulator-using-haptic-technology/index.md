@@ -1,7 +1,8 @@
 ---
-title: "A rapid heuristic algorithm to solve the single individual haplotype assembly problem"
+title: "[**A rapid heuristic algorithm to solve the single individual haplotype assembly problem**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SiVVUi0AAAAJ&citation_for_view=SiVVUi0AAAAJ:5nxA0vEk-isC)
+"
 publication_types:
-  - "1"
+  - "2"
 authors:
   - Melina Bagher
   - Reza Karimzadeh
@@ -25,4 +26,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2023-12-13T18:18:57.886Z
+google_scholar_link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SiVVUi0AAAAJ&citation_for_view=SiVVUi0AAAAJ:5nxA0vEk-isC"  # لینک به مقاله در گوگل اسکولار
+
 ---
