@@ -54,7 +54,6 @@ item:
   date_end: 
   description: |2-
       Rayan.AI, Sharif University of Technology
-      
       * Instructor: Mohammad Hossein Rohban, Rayan.AI Group
   organization: Sharif University of Technology
   organization_url: https://en.sharif.ir
