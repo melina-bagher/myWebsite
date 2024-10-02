@@ -42,6 +42,6 @@ email: ""
 ---
 H﻿i!! I'm Melina,
 
-A graduated M.Sc. student in Biomedical Engineering at Electrical Engineering department of Sharif University of Technology, Tehran, Iran. My research interests revolve around image processing and computational genomics. I received my B.Sc. degree in Biomedical Engineering, from Science and Research Branch, Islamic Azad University, Tehran, in 2018. You will find more about me in the link below.
+I graduated with a Master’s degree in Biomedical Engineering from the Department of Electrical Engineering at Sharif University of Technology, Tehran, Iran. My research interests revolve around image processing, machine learning, deep learning, and computational genomics. I previously earned my Bachelor’s degree in Biomedical Engineering from the Science and Research Branch of Islamic Azad University, Tehran. You can find more about me through the links below.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref  "uploads/MelinaBagherCV.pdf" "newtab" >}}Curriculum Vitae (CV){{< /staticref >}}.
