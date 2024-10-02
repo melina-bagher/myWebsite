@@ -37,17 +37,17 @@ item:
   title: "Supervised Machine Learning: Regression and Classification"
   url: ""
 
-- certificate_url: 
+- certificate_url:https://coursera.org/share/99e21a7a24a0e777a999e015f5debf34 
   date_end: ""
-  date_start: "2022-11-01"
+  date_start: "2024-8-01"
   description: |2-
-      Passing the courses:
-      * Machine Learning (Andrew Ng)
-      * Deep Learning (Andrew Ng)
-      * Python coding
+      DeepLearning.AI, Stanford University via Coursera
+      * 34 hours (approximately)
+      * Grade Achieved: 100%
+      * Instructor: Andrew Ng
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks, Machine Learning and Deep Learning
+  title:  "Advanced Learning Algorithms"
   url: ""
 
 design:
