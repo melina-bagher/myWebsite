@@ -27,7 +27,6 @@ item:
   date_start: "2023-09-01"
   date_end: ""
   description: |2-
-c
         
   organization: sazman&nbsp;sanjesh
   organization_url: https://www.sanjesh.org/
