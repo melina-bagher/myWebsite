@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'honors'
 subtitle:
 
 # Date format
@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ''
   date_start: "2023-3-01"
-  date_end: 
+  date_end: "2024-09-01"
   description: |2-
       Ranked 1st in the nationwide Ph.D. entrance exam for Biomedical Engineering (Bioelectric)
         
