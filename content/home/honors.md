@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'honors'
+title: 'Honors & Awards'
 subtitle:
 
 # Date format
@@ -39,7 +39,7 @@ item:
   description: |2-
       Ranked in the top 0.1% among approximately 40,000 participants in the nationwide M.Sc. entrance exam for Electrical Engineering.
 
-  organization: sazman sanjesh
+  organization: sazman&nbsp;sanjesh
   organization_url: https://www.sanjesh.org/
   title:  "M.Sc. NATIONAL UNIVERSITY ENTRANCE EXAM"
   url: ""
