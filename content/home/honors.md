@@ -27,7 +27,8 @@ item:
   date_start: "2023-09-01"
   date_end: ""
   description: |2-
-      Ranked 1st in the nationwide Ph.D. entrance exam for Biomedical Engineering (Bioelectric)
+      Ranked 1st in the nationwide Ph.D. entrance exam for Biomedical Engineering (Bioelectric)\nNational Organization for Educational Testing
+
         
   organization: sanjesh
   organization_url: https://www.sanjesh.org/
