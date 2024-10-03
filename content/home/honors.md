@@ -27,7 +27,11 @@ item:
   date_start: "2023-09-01"
   date_end: ""
   description: |2-
-        
+      Ranked 1st in the nationwide Ph.D. entrance exam for Biomedical Engineering (Bioelectric)
+        National Organization for Educational Testing
+
+
+      
   organization: sazman&nbsp;sanjesh
   organization_url: https://www.sanjesh.org/
   title: "Ph.D. NATIONAL UNIVERSITY ENTRANCE EXAM"
@@ -37,7 +41,7 @@ item:
   date_end: ""
   description: |2-
       Ranked in the top 0.1% among approximately 40,000 participants in the nationwide M.Sc. entrance exam for Electrical Engineering
-      National Organization for Educational Testing
+        National Organization for Educational Testing
 
   organization: sazman&nbsp;sanjesh
   organization_url: https://www.sanjesh.org/
