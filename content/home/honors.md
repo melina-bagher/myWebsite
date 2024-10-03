@@ -30,7 +30,7 @@ item:
       Ranked 1st in the nationwide Ph.D. entrance exam for Biomedical Engineering (Bioelectric)n\National Organization for Educational Testing
 
         
-  organization: sanjesh
+  organization: sazman sanjesh
   organization_url: https://www.sanjesh.org/
   title: "Ph.D. NATIONAL UNIVERSITY ENTRANCE EXAM"
   url: ""
@@ -40,7 +40,7 @@ item:
   description: |2-
       Ranked in the top 0.1% among approximately 40,000 participants in the nationwide M.Sc. entrance exam for Electrical Engineering.
 
-  organization: sanjesh
+  organization: sazman sanjesh
   organization_url: https://www.sanjesh.org/
   title:  "M.Sc. NATIONAL UNIVERSITY ENTRANCE EXAM"
   url: ""
