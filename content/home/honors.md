@@ -52,7 +52,7 @@ c
       Member of the National Elites Foundation due to standing among top students of university.
   organization: Iran&nbsp;National&nbsp;Elites&nbsp;Foundation
   organization_url: https://en.bmn.ir/
-  title:  "Iran&nbsp;National&nbsp;Elites&nbsp;Foundation"
+  title:  "Iran National Elites Foundation"
   url: ""
 
 
