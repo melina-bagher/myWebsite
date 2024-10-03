@@ -29,7 +29,7 @@ item:
   description: |2-
       Ranked 1st in the nationwide Ph.D. entrance exam for Biomedical Engineering (Bioelectric)
              
-      National Organization for Educational Testing
+      * National Organization for Educational Testing
 
 
       
@@ -43,7 +43,7 @@ item:
   description: |2-
       Ranked in the top 0.1% among approximately 40,000 participants in the nationwide M.Sc. entrance exam for Electrical Engineering
        
-      National Organization for Educational Testing
+      * National Organization for Educational Testing 
 
   organization: sazman&nbsp;sanjesh
   organization_url: https://www.sanjesh.org/
@@ -55,7 +55,8 @@ item:
   date_end: ""
   description: |2-
       Member of the National Elites Foundation due to standing among top students of university.
-  organization: 'Nn_N'
+      * Iran National Elites Foundation
+  organization: 'Iran'
   organization_url: https://en.bmn.ir/
   title:  "Iran National Elites Foundation"
   url: ""
