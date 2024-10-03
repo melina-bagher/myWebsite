@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.sanjesh.org/
-  date_start: "2023-03-01"
-  date_end: "2024-09-01"
+- certificate_url: ""
+  date_start: "2023-09-01"
+  date_end: ""
   description: |2-
       Ranked 1st in the nationwide Ph.D. entrance exam for Biomedical Engineering (Bioelectric)
         
@@ -33,46 +33,26 @@ item:
   organization_url: https://www.sanjesh.org/
   title: "Ph.D. NATIONAL UNIVERSITY ENTRANCE EXAM"
   url: ""
-- certificate_url: https://coursera.org/share/99e21a7a24a0e777a999e015f5debf34
-  date_start: "2024-08-01"
-  date_end: "2024-09-01"
+- certificate_url: ""
+  date_start: "2019-09-01"
+  date_end: ""
   description: |2-
-      DeepLearning.AI, Stanford University via Coursera
-      * 34 hours (approximately)
-      * Grade Achieved: 100%
-      * Instructor: Andrew Ng
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title:  "Advanced Learning Algorithms"
+      Ranked in the top 0.1% among approximately 40,000 participants in the nationwide M.Sc. entrance exam for Electrical Engineering (2024).
+
+  organization: sanjesh
+  organization_url: https://www.sanjesh.org/
+  title:  "M.Sc. NATIONAL UNIVERSITY ENTRANCE EXAM"
   url: ""
 
 - certificate_url: ""
-  date_start: "2024-06-01"
+  date_start: "2018-06-01"
   date_end: ""
   description: |2-
-      Rayan.AI, Sharif University of Technology
-      * Instructor: Mohammad Hossein Rohban, Rayan.AI Group
-  organization: sharif
+      Member of the National Elites Foundation due to standing among top students of university.
+  organization: Iran's National Elites Foundation
   organization_url: https://en.sharif.ir
-  title:  "Introduction to Machine learning and Deep Learning"
+  title:  "Iran's National Elites Foundation"
   url: ""
-
-
-- certificate_url: ""
-  date_start: "2024-07-01"
-  date_end: ""
-  description: |2-
-      Rayan.AI, Sharif University of Technology
-      * Instructor: Mohammad Hossein Rohban, Rayan.AI Group
-  organization: sharif
-  organization_url: https://en.sharif.ir
-  title:  "Trustworthiness in Deep Learning"
-  url: ""
-
-
-
-
-
 
 
 design:
