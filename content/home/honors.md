@@ -27,7 +27,7 @@ item:
   date_start: "2023-09-01"
   date_end: ""
   description: |2-
-      Ranked 1st in the nationwide Ph.D. entrance exam for Biomedical Engineering (Bioelectric)\nNational Organization for Educational Testing
+      Ranked 1st in the nationwide Ph.D. entrance exam for Biomedical Engineering (Bioelectric)n\National Organization for Educational Testing
 
         
   organization: sanjesh
@@ -52,7 +52,7 @@ item:
       Member of the National Elites Foundation due to standing among top students of university.
   organization: Iran's National Elites Foundation
   organization_url: https://en.bmn.ir/
-  title:  "Iran's National Elites Foundation"
+  title:  "Iran&nbsp;National&nbsp;Elites&nbsp;Foundation"
   url: ""
 
 
