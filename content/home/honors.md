@@ -29,7 +29,7 @@ item:
   description: |2-
       Ranked 1st in the nationwide Ph.D. entrance exam for Biomedical Engineering (Bioelectric)
         
-  organization: sanjesh
+  organization: sazman sanjesh
   organization_url: https://www.sanjesh.org/
   title: "Ph.D. NATIONAL UNIVERSITY ENTRANCE EXAM"
   url: ""
@@ -37,9 +37,9 @@ item:
   date_start: "2019-09-01"
   date_end: ""
   description: |2-
-      Ranked in the top 0.1% among approximately 40,000 participants in the nationwide M.Sc. entrance exam for Electrical Engineering (2024).
+      Ranked in the top 0.1% among approximately 40,000 participants in the nationwide M.Sc. entrance exam for Electrical Engineering.
 
-  organization: sanjesh
+  organization: sazman sanjesh
   organization_url: https://www.sanjesh.org/
   title:  "M.Sc. NATIONAL UNIVERSITY ENTRANCE EXAM"
   url: ""
@@ -50,7 +50,7 @@ item:
   description: |2-
       Member of the National Elites Foundation due to standing among top students of university.
   organization: Iran's National Elites Foundation
-  organization_url: https://en.sharif.ir
+  organization_url: https://en.bmn.ir/
   title:  "Iran's National Elites Foundation"
   url: ""
 
