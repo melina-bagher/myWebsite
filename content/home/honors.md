@@ -27,9 +27,10 @@ item:
   date_start: "2023-09-01"
   date_end: ""
   description: |2-
-      Ranked 1st in the nationwide Ph.D. entrance exam for Biomedical Engineering (Bioelectric)
+      Ranked 1st in the nationwide Ph.D. entrance exam for Biomedical Engineering (Bioelectric)\n
+      National Organization of Educational Testing (Sazman Sanjesh)
         
-  organization: sazman sanjesh
+  organization: Sanjesh
   organization_url: https://www.sanjesh.org/
   title: "Ph.D. NATIONAL UNIVERSITY ENTRANCE EXAM"
   url: ""
@@ -39,7 +40,7 @@ item:
   description: |2-
       Ranked in the top 0.1% among approximately 40,000 participants in the nationwide M.Sc. entrance exam for Electrical Engineering.
 
-  organization: sazman&nbsp;sanjesh
+  organization: Sanjesh
   organization_url: https://www.sanjesh.org/
   title:  "M.Sc. NATIONAL UNIVERSITY ENTRANCE EXAM"
   url: ""
@@ -49,7 +50,7 @@ item:
   date_end: ""
   description: |2-
       Member of the National Elites Foundation due to standing among top students of university.
-  organization: Iran's National Elites Foundation
+  organization: Iran's&nbsp;National&nbsp;Elites&nbsp;Foundation
   organization_url: https://en.bmn.ir/
   title:  "Iran's National Elites Foundation"
   url: ""
