@@ -22,33 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Ranked 1st in the nationwide Ph.D. entrance exam for Biomedical
-Engineering (Bioelectric)
-    company: sanjesh
+  - title: ''
+    company: ''
     company_url: ''
-    company_logo: 
+    company_logo: sanjesh
     location: Tehran
     date_start: '2023-09-01'
     date_end: ''
     description: |2-
-        Teaching Assistant:       
-        * System Biology (Sharif University)
-        * Medical Images Analysis and Processing (Sharif University)
-        * Electronics 2 (Islamic Azad University)
+        * Ranked 1st in the nationwide Ph.D. entrance exam for Biomedical Engineering (Bioelectric) 
+        * Ranked in the top 0.1% among approximately 40,000 participants in the nationwide M.Sc. entrance exam for Electrical Engineering.
+
+        * Member of National Elite Foundation due to standing among top students of university
 
 
-        
-  - title: Internship
-    company: Medical Equipments unit of Parsian Hospital
-    company_url: ''
-    company_logo: xray
-    location: Tehran
-    date_start: '2018-06-01'
-    date_end: '2018-10-31'
-    description: |2-
-        Becoming familiar with Repair and maintenance of health monitoring equipments
-         
-           
+  
 
 design:
   columns: '2'
