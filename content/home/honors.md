@@ -54,7 +54,7 @@ item:
   description: |2-
       Member of the National Elites Foundation due to standing among top students of university.
       * Iran National Elites Foundation
-  organization: imm
+  organization: Iran
   organization_url: https://en.bmn.ir/
   title:  "Iran National Elites Foundation"
   url: ""
