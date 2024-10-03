@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: ''
-  date_start: "2023-3-01"
+- certificate_url: 
+  date_start: "2023-03-01"
   date_end: "2024-09-01"
   description: |2-
       Ranked 1st in the nationwide Ph.D. entrance exam for Biomedical Engineering (Bioelectric)
