@@ -28,9 +28,9 @@ item:
   date_end: ""
   description: |2-
       Ranked 1st in the nationwide Ph.D. entrance exam for Biomedical Engineering (Bioelectric)\n
-      National Organization of Educational Testing (Sazman Sanjesh)
+      National Organization of Educational Testing 
         
-  organization: Sazman&nbsp;Sanjesh
+  organization: sazman&nbsp;sanjesh
   organization_url: https://www.sanjesh.org/
   title: "Ph.D. NATIONAL UNIVERSITY ENTRANCE EXAM"
   url: ""
