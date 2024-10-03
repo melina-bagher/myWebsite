@@ -39,7 +39,7 @@ item:
   description: |2-
       Ranked in the top 0.1% among approximately 40,000 participants in the nationwide M.Sc. entrance exam for Electrical Engineering.
 
-  organization: sanjesh
+  organization: sanjesh-Copy
   organization_url: https://www.sanjesh.org/
   title:  "M.Sc. NATIONAL UNIVERSITY ENTRANCE EXAM"
   url: ""
