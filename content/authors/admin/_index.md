@@ -1,5 +1,5 @@
 ---
-role: "Graduated M.Sc. student in Biomedical Engineering "
+role: "M.Sc. graduate in Biomedical Engineering "
 avatar_filename: avatar.jpg
 bio: My research interests include Image Processing,Machine Learning, Deep Learning and Computational Genomics.
 interests:
