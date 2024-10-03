@@ -29,7 +29,7 @@ item:
   description: |2-
 c
         
-  organization: sazman sanjesh
+  organization: sazman&nbsp;sanjesh
   organization_url: https://www.sanjesh.org/
   title: "Ph.D. NATIONAL UNIVERSITY ENTRANCE EXAM"
   url: ""
@@ -38,8 +38,11 @@ c
   date_end: ""
   description: |2-
       Ranked in the top 0.1% among approximately 40,000 participants in the nationwide M.Sc. entrance exam for Electrical Engineering.
+  description: |2-
 
-  organization: sazman sanjesh
+    National Organization for Educational Testing
+
+  organization: sazman&nbsp;sanjesh
   organization_url: https://www.sanjesh.org/
   title:  "M.Sc. NATIONAL UNIVERSITY ENTRANCE EXAM"
   url: ""
