@@ -50,7 +50,7 @@ item:
   date_end: ""
   description: |2-
       Member of the National Elites Foundation due to standing among top students of university.
-  organization: Iran's&nbsp;National&nbsp;Elites&nbsp;Foundation
+  organization: Iran's National Elites Foundation
   organization_url: https://en.bmn.ir/
   title:  "Iran's National Elites Foundation"
   url: ""
