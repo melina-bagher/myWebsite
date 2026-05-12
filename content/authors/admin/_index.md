@@ -49,4 +49,5 @@ I recently graduated with a Master’s degree in Biomedical Engineering from the
 I also hold a Bachelor’s degree in Biomedical Engineering from the Science and Research Branch of Islamic Azad University, Tehran.
 
 You can find more about my work and projects through the links below.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref  "uploads/MelinaBagherCV.pdf" "newtab" >}}Curriculum Vitae (CV){{< /staticref >}}.
