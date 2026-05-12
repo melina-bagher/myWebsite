@@ -27,10 +27,6 @@ feature:
   name: Python
   
 - description: 
-  icon: r
-  icon_pack: "custom"
-  name: R
-- description: 
   icon: keras-seeklogo
   icon_pack: "custom"
   name: Keras
