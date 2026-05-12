@@ -35,7 +35,7 @@ description:
   icon_pack: "custom"
   name: Keras
 
-  description: 
+description: 
   icon: tensorflow
   icon_pack: "custom"
   name: Tensorflow
