@@ -30,6 +30,16 @@ feature:
   icon: r
   icon_pack: "custom"
   name: R
+description: 
+  icon: keras-seeklogo
+  icon_pack: "custom"
+  name: Keras
+
+  description: 
+  icon: tensorflow
+  icon_pack: "custom"
+  name: Tensorflow
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
