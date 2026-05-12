@@ -30,12 +30,12 @@ feature:
   icon: r
   icon_pack: "custom"
   name: R
-description: 
+- description: 
   icon: keras-seeklogo
   icon_pack: "custom"
   name: Keras
 
-description: 
+- description: 
   icon: tensorflow
   icon_pack: "custom"
   name: Tensorflow
